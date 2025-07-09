@@ -1,2 +1,2 @@
-# Savvy_Spend
-here is your personal 
+# SavvySpend
+An AI-powered smart budgeting assistant.
